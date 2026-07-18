@@ -1,0 +1,55 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# JetBrains IDE
+.idea/
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# Cache
+.cache/
+.temp/
+tmp/
+
+# Environment
+.env
+.env.local
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+Desktop.ini
+
+# Generated Files
+*.bak
+*.tmp
+
+# Archives
+*.zip
+*.rar
+
+# Uploads
+uploads/
+
+# Coverage
+coverage/
+
+# npm
+package-lock.json
+
+# Yarn
+yarn.lock
